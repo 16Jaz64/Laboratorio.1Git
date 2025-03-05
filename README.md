@@ -1,2 +1,2 @@
 # Laboratorio.1Git
-# laboratorio de git
+ laboratorio de git
